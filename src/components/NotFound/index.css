@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.not-found-container {
+  display: flex;
+  justify-content: center;
+  font-size: 28px;
+  font-family: Roboto;
+  font-weight: 500;
+}
